@@ -21,13 +21,13 @@ This approach benefits race engineers, strategists, and teams in all forms of mo
 ## Dataset information
 Current datasets in `data/test/` are updated once all free practice sessions of the current season of the upcoming round has been completed, all test sets are contain the Ferrari team only between 2022 to 2025* and is in the file naming convention of:
 
-# comparison dataset (fastf1) `data/comparison/`:
+comparison dataset (fastf1) `data/comparison/`:
 `ferrari_`{circuit name}`_202X.csv`
 
-# pit_data dataset (openf1) `data/pit_data/`:
+pit_data dataset (openf1) `data/pit_data/`:
 {circuit name}`PD.csv`
 
-# test dataset (fastf1) `data/test/`:
+test dataset (fastf1) `data/test/`:
 `ferrari_`{circuit name}`_sessions.csv`
 
 *NOTE: Circuits with intercahngable conditions that year i.e. Australia 2025, laps done on dry compounds are used, however this is NOT an accurate comparison
