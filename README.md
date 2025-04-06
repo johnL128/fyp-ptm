@@ -90,7 +90,6 @@ Overall System Packages needed to run program:
 - xgboost 1.7.3
 - Pandas 2.2.3
 - Matplotlib 3.9.2
-- scipy 1.13.0
 
 If running hyperparameter search:
 - optuna 4.2.1
