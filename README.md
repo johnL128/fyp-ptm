@@ -17,6 +17,7 @@ This approach benefits race engineers, strategists, and teams in all forms of mo
 - `data/test/`: Includes historic race data used for testing ML and for inputs in sim
 - `data/train/`: Includes historic race data used for training ML.
 - `output/`: Example outputs with the overall program.
+- zip file is provided for easy download
 
 ## Dataset information
 Current datasets in `data/test/` are updated once all free practice sessions of the current season of the upcoming round has been completed, all test sets are contain the Ferrari team only between 2022 to 2025* and is in the file naming convention of:
