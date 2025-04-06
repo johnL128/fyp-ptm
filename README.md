@@ -81,7 +81,7 @@ test dataset (fastf1) `data/test/`:
 - Finally, the model must be not only mathematically accurate to an extent but also practical in some sense. This model has a purpose to improve/provide an alternative approach to strategy generation.
 
 ## Python Packages
-Python Version: 3.9.18
+*Python Version: 3.9.18*
 
 Overall System Packages needed to run program:
 - Scikit learn 1.2.2
