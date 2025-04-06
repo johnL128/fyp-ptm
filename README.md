@@ -110,7 +110,7 @@ If running hyperparameter search:
 - Additional Data Incorporation
 
 ## Demo
-Insert gif or link to demo
+Youtube: https://youtu.be/UAj_-L6idn0
 
 ## Credits
 - [FastF1](https://github.com/theOehrly/Fast-F1) for telemetry and session data
