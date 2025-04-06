@@ -95,6 +95,7 @@ If running hyperparameter search:
 - optuna 4.2.1
 
 ## Notes
+- ENSURE IF RUNNING ON WINDOWS DO USE `\` WHEN SEARCHING FILES, THIS WAS DONE ON PROGRAMMED ON MAC, THOUGH THERE SHOULD NOT BE ANY COMPATABILTY ISSUES WITH THE CODE
 - Simulations assume ideal dry conditions, full effect of things like dirty air is not represented properly as its a miniscule value based on assumptions
 - Safety Car strategies cannot be generated yet
 - Wet weather strategies/Interchangable conditions are not available yet
