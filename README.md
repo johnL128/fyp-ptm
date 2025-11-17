@@ -5,7 +5,7 @@ This paper presents a machine learning-integrated simulation model to predict ra
 
 Using lap time data from the 2022-2023 seasons, an XGBoost model is trained to predict Ferrari tyre performance based on track conditions. These predictions are then incorporated into a Monte Carlo Simulation, which generates and optimises race strategies by accounting for probabilistic influences such as track conditions and tyre degradation trends.
 
-Findings indicated that the simulation output was within 5% of the **DRY** real-world performance, despite the limited data available for training and testing, though this assumes that VSC/SC is included. 
+Findings indicated that the simulation output was within 5-10% of the **DRY** real-world performance, despite the limited data available for training and testing, though this assumes that VSC/SC is included. 
 
 This approach benefits race engineers, strategists, and teams in all forms of motorsport that require a race strategy by providing more accurate and adaptable predictions while utilising a more traditional ML approach.
 
