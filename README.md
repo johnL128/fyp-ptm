@@ -63,7 +63,9 @@ test dataset (fastf1) `data/test/`:
 
 ## Current Datasets available
 - Australian Grand Prix
+- Bahrain Grand Prix
 - Chinese Grand Prix
+- Saudi Arabian Grand Prix
 - Japanese Grand Prix
 
 ## Features
